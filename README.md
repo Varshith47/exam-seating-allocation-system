@@ -2,6 +2,7 @@
 
 A Flask web app to manage student records, configure exam halls, automatically allocate seats, and view hall-wise seating plans.
 
+TO run the project :- https://exam-seating-allocation-system.onrender.com/
 ## Features
 - Admin and student login
 - Add, search, import and export student records
