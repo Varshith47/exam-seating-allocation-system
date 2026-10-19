@@ -86,3 +86,4 @@ The SQLite database is stored in `instance/seating.db` and excluded from Git. Do
 
 ## Author
 Varshith Reddy Nimma · [GitHub @Varshith47](https://github.com/Varshith47)
+"# exam-seating-allocation-system" 
